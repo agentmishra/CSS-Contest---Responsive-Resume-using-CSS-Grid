@@ -55,7 +55,8 @@ body{
 .description{
     font-size: 0.75rem;
     text-align: center;
-    padding: 1rem 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 .social-media{
     display: flex;
