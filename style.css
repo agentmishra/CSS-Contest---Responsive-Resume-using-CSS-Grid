@@ -57,6 +57,7 @@ body{
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    align-items: center;
 }
 .social-media{
     display: flex;
