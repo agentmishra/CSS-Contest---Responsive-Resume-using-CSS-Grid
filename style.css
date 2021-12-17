@@ -139,3 +139,11 @@ h6{
 .projects{
     padding: 0.5rem;
 }
+
+@media (max-width: 674px){
+    .main-content {
+        grid-template-columns: repeat(1, 1fr);
+        width: 90%;
+        min-height: 1000px;
+    }
+}
