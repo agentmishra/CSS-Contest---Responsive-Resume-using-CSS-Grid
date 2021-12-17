@@ -140,7 +140,7 @@ h6{
     padding: 0.5rem;
 }
 
-@media (max-width: 674px){
+@media (max-width: 673px){
     .main-content {
         grid-template-columns: repeat(1, 1fr);
         width: 90%;
