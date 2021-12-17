@@ -97,6 +97,7 @@ body{
     padding-bottom: 0.5rem;
 }
 .progress-bar {
+    border: 1px white solid;
     height: 4px;
   }
   
