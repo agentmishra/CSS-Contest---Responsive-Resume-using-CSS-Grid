@@ -54,11 +54,9 @@ body{
 }
 .description{
     font-size: 0.75rem;
-    text-align: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 .social-media{
     display: flex;
