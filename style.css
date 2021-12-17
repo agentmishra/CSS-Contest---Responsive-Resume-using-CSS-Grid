@@ -58,6 +58,7 @@ body{
     padding-top: 1rem;
     padding-bottom: 1rem;
     align-items: center;
+    justify-content: center;
 }
 .social-media{
     display: flex;
